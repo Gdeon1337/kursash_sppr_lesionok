@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b322838-2d8c-4b9a-8c4e-8924d9cf563c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6yWxh4NOQRRmXvh9TlNPinjSu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kyrsach_lisionok" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b322838-2d8c-4b9a-8c4e-8924d9cf563c" name="Default Changelist" comment="" />
+      <created>1576587874270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576587874270</updated>
+      <workItem from="1576587879801" duration="3396000" />
+      <workItem from="1576662162558" duration="581000" />
+      <workItem from="1576840644312" duration="2361000" />
+      <workItem from="1577016829650" duration="729000" />
+      <workItem from="1577085453191" duration="16616000" />
+      <workItem from="1577118905544" duration="382000" />
+      <workItem from="1577282906564" duration="18000" />
+      <workItem from="1577282948445" duration="1714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="358" width="598" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577091963900">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="689" y="358" width="598" height="397" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1577091963900" />
+    <state x="676" y="277" width="624" height="560" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577282924825">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state x="676" y="277" width="624" height="560" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.28.1853.1052@67.28.1853.1052" timestamp="1577282924825" />
+    <state width="1801" height="272" key="GridCell.Tab.0.bottom" timestamp="1577284129206">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577119287304" />
+    <state width="1801" height="272" key="GridCell.Tab.0.bottom/67.28.1853.1052@67.28.1853.1052" timestamp="1577284129206" />
+    <state width="1801" height="272" key="GridCell.Tab.0.center" timestamp="1577284129206">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577119287303" />
+    <state width="1801" height="272" key="GridCell.Tab.0.center/67.28.1853.1052@67.28.1853.1052" timestamp="1577284129206" />
+    <state width="1801" height="272" key="GridCell.Tab.0.left" timestamp="1577284129205">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577119287303" />
+    <state width="1801" height="272" key="GridCell.Tab.0.left/67.28.1853.1052@67.28.1853.1052" timestamp="1577284129205" />
+    <state width="1801" height="272" key="GridCell.Tab.0.right" timestamp="1577284129206">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577119287304" />
+    <state width="1801" height="272" key="GridCell.Tab.0.right/67.28.1853.1052@67.28.1853.1052" timestamp="1577284129206" />
+    <state width="1801" height="336" key="GridCell.Tab.1.bottom" timestamp="1577284016210">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="340" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577105992944" />
+    <state width="1801" height="336" key="GridCell.Tab.1.bottom/67.28.1853.1052@67.28.1853.1052" timestamp="1577284016210" />
+    <state width="1801" height="336" key="GridCell.Tab.1.center" timestamp="1577284016209">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="340" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577105992942" />
+    <state width="1801" height="336" key="GridCell.Tab.1.center/67.28.1853.1052@67.28.1853.1052" timestamp="1577284016209" />
+    <state width="1801" height="336" key="GridCell.Tab.1.left" timestamp="1577284016209">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="340" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577105992941" />
+    <state width="1801" height="336" key="GridCell.Tab.1.left/67.28.1853.1052@67.28.1853.1052" timestamp="1577284016209" />
+    <state width="1801" height="336" key="GridCell.Tab.1.right" timestamp="1577284016209">
+      <screen x="67" y="28" width="1853" height="1052" />
+    </state>
+    <state width="1807" height="340" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577105992943" />
+    <state width="1801" height="336" key="GridCell.Tab.1.right/67.28.1853.1052@67.28.1853.1052" timestamp="1577284016209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arrima.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="yhat[0]" language="Python" />
+        <watch expression="model_fit.forecast(steps=10)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kyrsach_lisionok$main.coverage" NAME="main Coverage Results" MODIFIED="1577284129192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
